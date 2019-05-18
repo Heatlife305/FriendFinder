@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Heatlife305/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Heatlife305/FriendFinder#readme"
+  "homepage": "https://github.com/Heatlife305/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "path": "^0.12.7"
+  }
 }
