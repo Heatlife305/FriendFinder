@@ -1,3 +1,5 @@
+let friends = 
+
 [
     {
         "name": "Kendrick Lamar",
@@ -145,3 +147,5 @@
     }
     
 ]
+
+module.exports = friends;
